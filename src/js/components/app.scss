@@ -1,0 +1,39 @@
+@import "../../scss/style.scss";
+
+.pageContainer{
+	margin: 0px;
+	padding: 0px;
+	position: relative;
+}
+.mainContentWrapper{
+	margin: 25px 0 75px 0;
+    padding: 0px;
+    width: 100%;
+    display: inline-block;
+}
+
+.mainContentInner{
+	margin: 0px auto;
+	max-width: $containerWidth;
+	padding: 0 0;
+}
+
+.appWarrper {
+    line-height: 2;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    @media only screen and (max-width: 736px) {
+        width: 80%;
+    }
+}
+
+.appInnerContainer{
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+
+
+

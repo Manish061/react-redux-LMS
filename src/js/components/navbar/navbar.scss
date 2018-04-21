@@ -1,0 +1,14 @@
+@import "../../../scss/style.scss";
+
+.headerWrapper{
+    margin: 0px;
+    padding: 0px;
+    background: #ffd11a;
+    width: 100%;
+    display: block;
+}
+
+.headerInner{
+    margin: 0px auto;
+    max-width: $containerWidth;
+}

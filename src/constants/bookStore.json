@@ -1,0 +1,26 @@
+{
+    "books": [
+        {
+            "isbn": [
+                9781451648546,
+                9789000302727
+            ],
+            "title": "Steve Jobs",
+            "author": [
+                "Walter Isaacson"
+            ],
+            "description": "Draws on more than forty interviews with Steve Jobs, as well as interviews with family members, friends, competitors, and colleagues to offer a look at the co-founder and leading creative force behind the Apple computer company.",
+            "categories": [
+                "Biography & Autobiography"
+            ],
+            "publisher": "Simon and Schuster",
+            "imageLink": {
+                "smallThumbnail": "http://books.google.com/books/content?id=8U2oAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=8U2oAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "rating": 0,
+            "issueDetails": [],
+            "TotalCopies": 2
+        }
+    ]
+}
